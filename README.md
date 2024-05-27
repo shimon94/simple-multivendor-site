@@ -7,10 +7,6 @@ And Users can visit the product and order by paying with Debit/Credit Card (Stri
 
 Then Vendor gets the email notification about the order and should deliver the product to the customer based on the address details.
 
-
-
-And if you like this project then ADD a STAR ⭐️  to this project 👆
-
 ## Features of this Project
 
 ### A. Admin Users Can
